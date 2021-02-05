@@ -21,7 +21,6 @@
 * Function anatomy
   - Naming/defining functions vs calling functions
   - Providing arguments
-  - The function body
   - The `return` statement
 * Thinking functionally
   - Programs are data and its transformations
